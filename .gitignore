@@ -2,4 +2,8 @@
 *.log
 *.key
 *.pub
-music
+/music/*
+!/music/mp3/*
+!/music/wav/*
+!/music/flac/*
+
