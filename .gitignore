@@ -3,7 +3,7 @@
 *.key
 *.pub
 /music/*
-!/music/mp3/*
-!/music/wav/*
-!/music/flac/*
+!/music/mp3/
+!/music/wav/
+!/music/flac/
 
